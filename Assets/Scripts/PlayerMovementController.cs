@@ -10,6 +10,7 @@ public class PlayerMovementController : MonoBehaviour
     private bool isFacingLeft = true;
     public GameObject player;
     public float characterScale = 0.13f;
+    public Animator anim;
 
     void Update(){
         ProcessInputs();
@@ -18,6 +19,15 @@ public class PlayerMovementController : MonoBehaviour
         }
         else {
             player.transform.localScale = new Vector2(-1, 1) * characterScale;
+        }
+        if (rb.velocity.x == 0 && rb.velocity.y == 0)
+        {
+            anim.SetBool("isIdle", true);
+            anim.SetBool("isWalking", false);
+        }
+        else {
+            anim.SetBool("isIdle", false);
+            anim.SetBool("isWalking", true);
         }
     }
     void FixedUpdate()
@@ -40,6 +50,5 @@ public class PlayerMovementController : MonoBehaviour
         else if (rb.velocity.x < 0){
             isFacingLeft = true;
         }
-        Debug.Log("switch");
     }
 }
