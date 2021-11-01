@@ -11,6 +11,7 @@ public class PlayerMovementController : MonoBehaviour
     public GameObject player;
     public float characterScale = 0.13f;
     public Animator anim;
+    public bool isSprinting;
 
     void Update(){
         ProcessInputs();
@@ -37,12 +38,24 @@ public class PlayerMovementController : MonoBehaviour
     void ProcessInputs(){
         float moveX = Input.GetAxisRaw("Horizontal");
         float moveY = Input.GetAxisRaw("Vertical");
-
+    
         moveDirection = new Vector2(moveX, moveY);
+        if (Input.GetKey(KeyCode.LeftShift)) {
+            isSprinting = true;
+        }
+        if (Input.GetKeyUp(KeyCode.LeftShift)) {
+            isSprinting = false;
+        }
     }
 
     void Move(){
-        rb.velocity = new Vector2(moveDirection.x * moveSpeed, moveDirection.y * moveSpeed);
+        if (isSprinting)
+        {
+            rb.velocity = new Vector2(moveDirection.x * moveSpeed * 2.0f, moveDirection.y * moveSpeed * 2.0f);
+        }
+        else {
+            rb.velocity = new Vector2(moveDirection.x * moveSpeed, moveDirection.y * moveSpeed);
+        }
         if (rb.velocity.x > 0)
         {
             isFacingLeft = false;

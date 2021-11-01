@@ -649,10 +649,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8853277fee27cde4c87197b798c5524b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 4
+  moveSpeed: 3
   rb: {fileID: 627284817}
   player: {fileID: 627284812}
   characterScale: 0.13
+  anim: {fileID: 627284813}
+  isSprinting: 0
 --- !u!1 &635290156
 GameObject:
   m_ObjectHideFlags: 0
@@ -1744,6 +1746,8 @@ MonoBehaviour:
   rb: {fileID: 1931850710}
   player: {fileID: 0}
   characterScale: 0.13
+  anim: {fileID: 0}
+  isSprinting: 0
 --- !u!50 &1931850710
 Rigidbody2D:
   serializedVersion: 4
