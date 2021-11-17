@@ -4,14 +4,15 @@ using UnityEngine;
 
 public class PlayerMovementController : MonoBehaviour
 {
-    public float moveSpeed;
+    public float moveSpeed = 3;
+    public float runSpeed = 5;
     public Rigidbody2D rb;
     private Vector2 moveDirection;
     private bool isFacingLeft = true;
     public GameObject player;
     public float characterScale = 0.13f;
     public Animator anim;
-    public bool isSprinting;
+    public bool isRunning;
 
     void Update(){
         ProcessInputs();
@@ -25,10 +26,16 @@ public class PlayerMovementController : MonoBehaviour
         {
             anim.SetBool("isIdle", true);
             anim.SetBool("isWalking", false);
+            anim.SetBool("isRunning", false);
         }
         else {
             anim.SetBool("isIdle", false);
             anim.SetBool("isWalking", true);
+            if (isRunning){
+                anim.SetBool("isRunning", true);
+            }else{
+                anim.SetBool("isRunning", false);
+            }
         }
     }
     void FixedUpdate()
@@ -41,20 +48,20 @@ public class PlayerMovementController : MonoBehaviour
     
         moveDirection = new Vector2(moveX, moveY);
         if (Input.GetKey(KeyCode.LeftShift)) {
-            isSprinting = true;
+            isRunning = true;
         }
         if (Input.GetKeyUp(KeyCode.LeftShift)) {
-            isSprinting = false;
+            isRunning = false;
         }
     }
 
     void Move(){
-        if (isSprinting)
+        if (isRunning)
         {
-            rb.velocity = new Vector2(moveDirection.x * moveSpeed * 2.0f, moveDirection.y * moveSpeed * 2.0f);
+            rb.velocity = new Vector2(moveDirection.x, moveDirection.y).normalized * runSpeed;
         }
         else {
-            rb.velocity = new Vector2(moveDirection.x * moveSpeed, moveDirection.y * moveSpeed);
+            rb.velocity = new Vector2(moveDirection.x, moveDirection.y).normalized * moveSpeed;
         }
         if (rb.velocity.x > 0)
         {

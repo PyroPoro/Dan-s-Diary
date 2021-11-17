@@ -390,8 +390,8 @@ SpriteShapeRenderer:
   - {fileID: 21300000, guid: 6b3a1e4dae7989248ab6f8cf0fee01ed, type: 3}
   - {fileID: 21300000, guid: 6b3a1e4dae7989248ab6f8cf0fee01ed, type: 3}
   m_LocalAABB:
-    m_Center: {x: 12.820001, y: 6.4050016, z: -0.0007}
-    m_Extent: {x: 15.250001, y: 8.875002, z: 0.0007}
+    m_Center: {x: 12.820001, y: 6.4050007, z: -0.0007}
+    m_Extent: {x: 15.250001, y: 8.875001, z: 0.0007}
 --- !u!4 &535769949
 Transform:
   m_ObjectHideFlags: 0
@@ -650,11 +650,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 3
+  runSpeed: 5.5
   rb: {fileID: 627284817}
   player: {fileID: 627284812}
   characterScale: 0.13
   anim: {fileID: 627284813}
-  isSprinting: 0
+  isRunning: 0
 --- !u!1 &635290156
 GameObject:
   m_ObjectHideFlags: 0
@@ -1895,7 +1896,7 @@ SpriteRenderer:
   m_Size: {x: 0.64, y: 0.56}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1931850707
@@ -1951,11 +1952,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 10
+  runSpeed: 0
   rb: {fileID: 1931850710}
   player: {fileID: 0}
   characterScale: 0.13
   anim: {fileID: 0}
-  isSprinting: 0
+  isRunning: 0
 --- !u!50 &1931850710
 Rigidbody2D:
   serializedVersion: 4
