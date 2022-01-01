@@ -1,0 +1,1179 @@
+fileFormatVersion: 2
+guid: cd9bb059cd3f34b44abec81995b80028
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4267457010184335115
+    second: dan bedroom sprites_0
+  - first:
+      213: -60296488131353964
+    second: dan bedroom sprites_1
+  - first:
+      213: 7887129603998959900
+    second: dan bedroom sprites_2
+  - first:
+      213: 768019097255785213
+    second: dan bedroom sprites_3
+  - first:
+      213: 8321604719340855558
+    second: dan bedroom sprites_4
+  - first:
+      213: -4624985765672346965
+    second: dan bedroom sprites_5
+  - first:
+      213: 3860769995055803746
+    second: dan bedroom sprites_6
+  - first:
+      213: 2160875819361511576
+    second: dan bedroom sprites_7
+  - first:
+      213: 4048252920908346328
+    second: dan bedroom sprites_8
+  - first:
+      213: 2719961494160969110
+    second: dan bedroom sprites_9
+  - first:
+      213: 1188553304385535941
+    second: dan bedroom sprites_10
+  - first:
+      213: -3772657376419019869
+    second: dan bedroom sprites_11
+  - first:
+      213: -4795936534181010414
+    second: dan bedroom sprites_12
+  - first:
+      213: 3688548857779595015
+    second: dan bedroom sprites_13
+  - first:
+      213: 3726336375161032846
+    second: dan bedroom sprites_14
+  - first:
+      213: 4030403391805173040
+    second: dan bedroom sprites_15
+  - first:
+      213: 1473549623383637587
+    second: dan bedroom sprites_16
+  - first:
+      213: 5659958116713488041
+    second: dan bedroom sprites_17
+  - first:
+      213: 2058138935863072616
+    second: dan bedroom sprites_18
+  - first:
+      213: -6111759071869502931
+    second: dan bedroom sprites_19
+  - first:
+      213: -6642287369891762293
+    second: dan bedroom sprites_20
+  - first:
+      213: -7259344762950355921
+    second: dan bedroom sprites_21
+  - first:
+      213: -8936431786303843128
+    second: dan bedroom sprites_22
+  - first:
+      213: 4536641841357612015
+    second: dan bedroom sprites_23
+  - first:
+      213: -8403164814816040174
+    second: dan bedroom sprites_24
+  - first:
+      213: 5053356216777071345
+    second: dan bedroom sprites_25
+  - first:
+      213: -3806689004713044564
+    second: dan bedroom sprites_26
+  - first:
+      213: -5121465903162749757
+    second: dan bedroom sprites_27
+  - first:
+      213: -8739476047694044198
+    second: dan bedroom sprites_28
+  - first:
+      213: 3165359357534857467
+    second: dan bedroom sprites_29
+  - first:
+      213: -5910728722772083662
+    second: dan bedroom sprites_30
+  - first:
+      213: -6262726169727277106
+    second: dan bedroom sprites_31
+  - first:
+      213: -2796603774515036124
+    second: dan bedroom sprites_32
+  - first:
+      213: -8192029629681914101
+    second: dan bedroom sprites_33
+  - first:
+      213: 1907334334714888058
+    second: dan bedroom sprites_34
+  - first:
+      213: -3487480263478801144
+    second: dan bedroom sprites_35
+  - first:
+      213: -590605050952111150
+    second: dan bedroom sprites_36
+  - first:
+      213: 8739139170046991881
+    second: dan bedroom sprites_37
+  - first:
+      213: 2934283782453330643
+    second: dan bedroom sprites_38
+  - first:
+      213: 7386593707282945826
+    second: dan bedroom sprites_39
+  - first:
+      213: 7211918546388379808
+    second: dan bedroom sprites_40
+  - first:
+      213: -3071775803920995146
+    second: dan bedroom sprites_41
+  - first:
+      213: -1415422299955052766
+    second: dan bedroom sprites_42
+  - first:
+      213: 2268863284676754536
+    second: dan bedroom sprites_43
+  - first:
+      213: -1653876869125166564
+    second: dan bedroom sprites_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dan bedroom sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1899
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fa9427a8d093b30800000000000000
+      internalID: 4267457010184335115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1899
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4922abbd9a8c92ff0800000000000000
+      internalID: -60296488131353964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1899
+        width: 30
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1943d74696b47d60800000000000000
+      internalID: 7887129603998959900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_3
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1800
+        width: 30
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2b5a0cc4d88aa00800000000000000
+      internalID: 768019097255785213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1899
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601a68907674c7370800000000000000
+      internalID: 8321604719340855558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1699
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa9cd943ffb0dfb0800000000000000
+      internalID: -4624985765672346965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1598
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26da9c2fad5349530800000000000000
+      internalID: 3860769995055803746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_7
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1294
+        width: 212
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89826c0eb19fcfd10800000000000000
+      internalID: 2160875819361511576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_8
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1294
+        width: 94
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3fdaf35984e2830800000000000000
+      internalID: 4048252920908346328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_10
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1248
+        width: 102
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf3480eee69e7010800000000000000
+      internalID: 1188553304385535941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_11
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1247
+        width: 58
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a38943ca14d4abc0800000000000000
+      internalID: -3772657376419019869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_12
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1284
+        width: 183
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214a2d2d129617db0800000000000000
+      internalID: -4795936534181010414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_13
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1026
+        width: 114
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70720a4b4ab503330800000000000000
+      internalID: 3688548857779595015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_14
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1024
+        width: 71
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e801713b03b96b330800000000000000
+      internalID: 3726336375161032846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_15
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1039
+        width: 210
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03da316e78edee730800000000000000
+      internalID: 4030403391805173040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_16
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1037
+        width: 105
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e31b44399137410800000000000000
+      internalID: 1473549623383637587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_17
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1079
+        width: 102
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aedb4e5be53c8e40800000000000000
+      internalID: 5659958116713488041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_18
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1080
+        width: 200
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867d48a257aff8c10800000000000000
+      internalID: 2058138935863072616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_19
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1077
+        width: 20
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a7270718bae2ba0800000000000000
+      internalID: -6111759071869502931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_20
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 886
+        width: 71
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fa98554dad1d3a0800000000000000
+      internalID: -6642287369891762293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_21
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 887
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2470465660a14b90800000000000000
+      internalID: -7259344762950355921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_22
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 906
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c499d933aa6bf380800000000000000
+      internalID: -8936431786303843128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_23
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 906
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe36b43f7b365fe30800000000000000
+      internalID: 4536641841357612015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_24
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 898
+        width: 201
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b24df6f16f16b80800000000000000
+      internalID: -8403164814816040174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_25
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 906
+        width: 124
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa528094b0212640800000000000000
+      internalID: 5053356216777071345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_26
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 906
+        width: 221
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca591b7d48ceb2bc0800000000000000
+      internalID: -3806689004713044564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_27
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 904
+        width: 37
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc85b055e5ece8b0800000000000000
+      internalID: -5121465903162749757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_28
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 812
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3692e96d427b680800000000000000
+      internalID: -8739476047694044198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_29
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 812
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8e25c909d9deb20800000000000000
+      internalID: 3165359357534857467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_30
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 817
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cb8730b8fd8fda0800000000000000
+      internalID: -5910728722772083662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_31
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 828
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7ecdfdab35619a0800000000000000
+      internalID: -6262726169727277106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_32
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 813
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420c3822fa77039d0800000000000000
+      internalID: -2796603774515036124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_33
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 826
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fa55d7470105e80800000000000000
+      internalID: -8192029629681914101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_34
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 803
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f3690d876387a10800000000000000
+      internalID: 1907334334714888058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_35
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 733
+        width: 201
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d09268d2bf99fc0800000000000000
+      internalID: -3487480263478801144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_36
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 679
+        width: 114
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dba277d5dfbdc7f0800000000000000
+      internalID: -590605050952111150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_37
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 675
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e5a51f5c8a74970800000000000000
+      internalID: 8739139170046991881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_38
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 682
+        width: 83
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2025bbd8ba8b820800000000000000
+      internalID: 2934283782453330643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_39
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 544
+        width: 57
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2275cb647d3728660800000000000000
+      internalID: 7386593707282945826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_40
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 544
+        width: 65
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8e78225b1e51460800000000000000
+      internalID: 7211918546388379808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_41
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 514
+        width: 109
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc26a96e2cde55d0800000000000000
+      internalID: -3071775803920995146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_42
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 606
+        width: 206
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f330cdae86b5ce0800000000000000
+      internalID: -1415422299955052766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_43
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 604
+        width: 112
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c751fe22f9c7f10800000000000000
+      internalID: 2268863284676754536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan bedroom sprites_44
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 514
+        width: 99
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a2f8900cf3c09e0800000000000000
+      internalID: -1653876869125166564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c02e980a293e2634f83c961519cbab02
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
