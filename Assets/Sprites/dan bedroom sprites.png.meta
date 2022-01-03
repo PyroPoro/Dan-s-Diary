@@ -514,7 +514,7 @@ TextureImporter:
       name: dan bedroom sprites_14
       rect:
         serializedVersion: 2
-        x: 294
+        x: 293
         y: 1024
         width: 71
         height: 190
@@ -581,8 +581,8 @@ TextureImporter:
         y: 1079
         width: 102
         height: 121
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -682,7 +682,7 @@ TextureImporter:
       name: dan bedroom sprites_22
       rect:
         serializedVersion: 2
-        x: 398
+        x: 399
         y: 906
         width: 50
         height: 62
@@ -1123,7 +1123,7 @@ TextureImporter:
       name: dan bedroom sprites_43
       rect:
         serializedVersion: 2
-        x: 1227
+        x: 1226
         y: 604
         width: 112
         height: 209
