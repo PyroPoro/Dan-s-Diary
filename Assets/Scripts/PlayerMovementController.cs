@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class PlayerMovementController : MonoBehaviour
 {
-    public float moveSpeed = 3;
+    public float horMoveSpeed = 3;
+    public float verMoveSpeed = 2;
     public float runSpeed = 5;
     public Rigidbody2D rb;
     private Vector2 moveDirection;
@@ -46,6 +47,12 @@ public class PlayerMovementController : MonoBehaviour
             }else{
                 anim.SetBool("isRunning", false);
             }
+            if (rb.velocity.y > 0){
+                anim.SetBool("isForward", false);
+            }
+            else if (rb.velocity.y < 0){
+                anim.SetBool("isForward", true);
+            }
         }
     }
     void FixedUpdate()
@@ -71,7 +78,7 @@ public class PlayerMovementController : MonoBehaviour
             rb.velocity = new Vector2(moveDirection.x, moveDirection.y).normalized * runSpeed;
         }
         else {
-            rb.velocity = new Vector2(moveDirection.x, moveDirection.y).normalized * moveSpeed;
+            rb.velocity = new Vector2(moveDirection.x, moveDirection.y).normalized * new Vector2 (horMoveSpeed, verMoveSpeed);
         }
         if (rb.velocity.x > 0)
         {
