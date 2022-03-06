@@ -31,21 +31,25 @@ public class PlayerMovementController : MonoBehaviour
         }
         else if(rb.velocity.x != 0){
             anim.SetBool("isIdle", false);
-            anim.SetBool("isWalking", true);
+            //anim.SetBool("isWalking", true);
             anim.SetBool("isFacingSideways", true);
             if (isRunning){
                 anim.SetBool("isRunning", true);
+                anim.SetBool("isWalking", false);
             }else{
                 anim.SetBool("isRunning", false);
+                anim.SetBool("isWalking", true);
             }
         }else {
             anim.SetBool("isIdle", false);
-            anim.SetBool("isWalking", true);
+            //anim.SetBool("isWalking", true);
             anim.SetBool("isFacingSideways", false);
             if (isRunning){
                 anim.SetBool("isRunning", true);
+                anim.SetBool("isWalking", false);
             }else{
                 anim.SetBool("isRunning", false);
+                anim.SetBool("isWalking", true);
             }
             if (rb.velocity.y > 0){
                 anim.SetBool("isForward", false);
