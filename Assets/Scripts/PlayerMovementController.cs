@@ -14,14 +14,17 @@ public class PlayerMovementController : MonoBehaviour
     public float characterScale = 0.13f;
     public Animator anim;
     public bool isRunning;
+    public GameObject followTarget;
 
     void Update(){
         ProcessInputs();
         if (isFacingLeft){
             player.transform.localScale = new Vector2(1, 1) * characterScale;
+            followTarget.transform.position = new Vector3(-0.6f, 0.1f, 0) + transform.position;
         }
         else {
             player.transform.localScale = new Vector2(-1, 1) * characterScale;
+            followTarget.transform.position = new Vector3(0.6f, -0.3f, 0) + transform.position;
         }
         if (rb.velocity.x == 0 && rb.velocity.y == 0)
         {
@@ -53,9 +56,11 @@ public class PlayerMovementController : MonoBehaviour
             }
             if (rb.velocity.y > 0){
                 anim.SetBool("isForward", false);
+                followTarget.transform.position = new Vector3(0.3f, 0.3f, 0) + transform.position;
             }
             else if (rb.velocity.y < 0){
                 anim.SetBool("isForward", true);
+                followTarget.transform.position = new Vector3(-0.4f, -0.44f, 0) + transform.position;
             }
         }
     }
