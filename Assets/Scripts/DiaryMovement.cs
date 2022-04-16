@@ -11,9 +11,6 @@ public class DiaryMovement : MonoBehaviour
     [SerializeField] private float followDistance;
     [SerializeField] private float moveSpeed;
     private bool move;
-    private float percentDistance = 1f;
-    private float xVel = 0f;
-    private float yVel = 0f;
     // Start is called before the first frame update
     void Start()
     {
